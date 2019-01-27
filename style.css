@@ -1,5 +1,7 @@
-.twitter-timeline {
-    display: table-cell;
+.wrapper {
     width: 300px;
     height: 300px;
+}
+.twitter-timeline {
+    display: table-cell;
 }
